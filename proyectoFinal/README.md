@@ -10,6 +10,9 @@ Está aplicación se utilizó:
 
 # Proyecto 
 
+En el proyecto se derralla una aplicación para un restaurante de comida, con una sección de productos, los cuales se pueden seleccionar y pasar a carrito de compras, en donde se puede seleccionar la cantidad de platillos, además muestra el monto total y cuando la compra supera los 500 el envío es grátis.
+
+
 El proyecto está estructurado de la siguiente manera:
  
      
